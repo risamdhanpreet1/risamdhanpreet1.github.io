@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/whats-dinner-data-tells-us-whos-ordering-how-much-theyre-risam-e7tqe/?trackingId=lT41enwgQQuUZ6s3Fxl4TQ%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="Food Delivery.jpeg/>]
 Data Tells Us Who’s Ordering and How Much They’re Spending on iFood.
 
 
