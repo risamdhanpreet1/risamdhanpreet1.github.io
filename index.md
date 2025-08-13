@@ -24,7 +24,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Education Project]([https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/](https://www.loom.com/share/81f8fb73ad2142da92dfdbf64c02f916))
 
 [![Massachusetts Education Data Analysis](images/Image.jpeg)](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)  
 
