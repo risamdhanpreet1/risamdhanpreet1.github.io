@@ -24,12 +24,14 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 
 ---
-#### [Education Project]([https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/](https://www.loom.com/share/81f8fb73ad2142da92dfdbf64c02f916))
-[images/Image.jpeg]
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+
+[![Massachusetts Education Data Analysis](images/Image.jpeg)](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)  
+
+*In this case study from Data Analytics Accelerator, I analyzed the State of Massachusetts education data to answer:*  
+- *Which schools are struggling the most?*  
+- *How does class size affect college admission?*  
+- *What are the top math schools in the state?*
 
 ---
 
