@@ -24,7 +24,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Education Project]([https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/](https://www.loom.com/share/81f8fb73ad2142da92dfdbf64c02f916))
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
