@@ -36,7 +36,6 @@ By pulling all records, I could:
 - See the earliest and most recent lending activities.
 - Establish a **baseline** for later analysis, ensuring that trends and patterns would be interpreted in the right historical context.
 
----
 
 **SQL Query — Inspect the Entire Dataset**
 
@@ -48,7 +47,6 @@ By pulling all records, I could:
 After understanding the scope of the dataset, I wanted to see which countries appear most often in our lending records.  
 By counting the total number of transactions per country, I could quickly identify our most active borrowers and get a sense of where the World Bank’s engagement is highest.
 
----
 
 **SQL Query — Transactions per Country**
 
@@ -58,7 +56,6 @@ By counting the total number of transactions per country, I could quickly identi
 
 ![SQL Result Screenshot](images/Transac%20result.png)
 
----
 
 **Why this matters**
 - Highlights countries with the **strongest engagement** with the World Bank.
@@ -73,7 +70,7 @@ Finding this value helps the World Bank assess concentrated lending risks and id
 Using the `MAX()` function, I was able to quickly locate the biggest “Due to IDA” amount in a single record, along with the borrower and country details.  
 This provides critical insight for risk management teams and supports discussions on portfolio diversification.
 
----
+
 
 **SQL Query — Largest Single Loan**
 
@@ -82,7 +79,6 @@ This provides critical insight for risk management teams and supports discussion
 **Query Result**
 ![SQL Result Screenshot](images/Max%20Loan%20Result.png)
 
----
 
 **Why this matters**
 - Highlights the largest single financial commitment in our lending history.
