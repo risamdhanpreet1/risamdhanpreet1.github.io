@@ -2,9 +2,7 @@
 
 ![World Bank Loan Analysis](images/WorldBank.png)  
 *Figure: Visualizing loan amounts across countries.*
-
----
-
+<br>
 ### 3️⃣ Why This Project?
 <br>
 As a data analyst for the World Bank’s International Development Association (IDA), my first mission was to analyze our historical loan data and provide clear, data-driven insights. The goal? To understand borrowing patterns, identify top borrowers, and detect trends that can guide future lending strategies.
