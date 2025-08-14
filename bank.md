@@ -127,5 +127,21 @@ This small adjustment can significantly reduce the chance of syntax errors and i
 - Makes queries **easier to write** and less error-prone.
 - Improves **readability** when sharing SQL scripts.
 - Provides a consistent naming convention for later analysis and dashboards.
+## Conclusion
 
+**Main Takeaways**
+- IDA’s lending footprint spans decades and dozens of countries.
+- India, Bangladesh, and Pakistan lead in transaction volume.
+- The largest single loan highlights areas of high exposure.
+- Early debt sampling confirmed data integrity.
+- Aliasing simplified queries and improved workflow.
+
+**Next Steps**
+- Track trends year-over-year to spot changes in borrower activity.
+- Study repayment patterns for better risk insights.
+- Visualize data for clearer storytelling.
+- Use findings to guide portfolio strategy and lending policy.
+
+📌 Thanks for reading! 
+  If you want to check out more projects or connect about professional opportunities, feel free to reach out: risamdhanpreet@gmail.com.
 
