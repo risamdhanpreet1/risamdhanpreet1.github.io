@@ -15,7 +15,6 @@
 *Analyzed iFood delivery data to uncover ordering trends, spending habits, and customer behavior patterns.*
 
 
-
 ---
 #### [Tableau Project](https://www.loom.com/share/81f8fb73ad2142da92dfdbf64c02f916)
 
