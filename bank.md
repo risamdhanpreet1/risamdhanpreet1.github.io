@@ -25,7 +25,7 @@ What percentage of loans are fully repaid vs. still outstanding by country?
 
 The dataset comes from the World Bank's International Development Association (IDA) records, tracking global loans, grants, and guarantees. It includes borrower names, loan amounts, repayment details, and service charge rates, providing insights into how countries manage debt. 
 
-You can explore the live dataset here: World Bank IDA Loan Data
+You can explore the live dataset here:  <a(https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)">World Bank IDA Loan Data</a>
 
 To analyze the dataset, I used SQL along with CSVfiddle.io for querying the data. Given CSVfiddle's limited memory capacity, I applied a LIMIT clause to efficiently manage large data volumes and streamline processing.
 
