@@ -3,6 +3,7 @@
 ![World Bank Loan Analysis](images/WorldBank.png)  
 *Figure: Visualizing loan amounts across countries.*
 
+---
 
 ### 3️⃣ Why This Project?
 <br>
