@@ -63,5 +63,27 @@ By counting the total number of transactions per country, I could quickly identi
 - Highlights countries with the **strongest engagement** with the World Bank.
 - Helps prioritize **relationship management** and monitoring efforts.
 - Identifies potential regions for **deeper financial analysis** and risk assessment.
+- 
+### 3️⃣ What Is the Largest Single Loan We’ve Ever Issued?
+
+To understand the most significant financial commitments in our history, I searched for the largest individual loan in the dataset.  
+Finding this value helps the World Bank assess concentrated lending risks and identify countries or borrowers with exceptionally high exposure.
+
+Using the `MAX()` function, I was able to quickly locate the biggest “Due to IDA” amount in a single record, along with the borrower and country details.  
+This provides critical insight for risk management teams and supports discussions on portfolio diversification.
+
+---
+
+**SQL Query — Largest Single Loan**
+
+
+![SQL Result Screenshot](images/largest_single_loan.png)
+
+---
+
+**Why this matters**
+- Highlights the largest single financial commitment in our lending history.
+- Helps evaluate exposure to specific borrowers or countries.
+- Supports strategic decisions on future loan caps or diversification targets.
 
 
