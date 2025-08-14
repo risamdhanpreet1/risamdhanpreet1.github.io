@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Financial Analysis usin SQL](/bank.md)
+#### [Financial Analysis using SQL](/bank.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
