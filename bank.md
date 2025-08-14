@@ -96,14 +96,11 @@ By retrieving a small sample of the data and filtering out zero or null values, 
 Using `LIMIT` with a `WHERE` filter, I displayed the first five non-zero debt records.  
 This gave me a snapshot of the scale of individual loan amounts and ensured the `"Due to IDA (US$)"` field contained actionable data for later analysis.
 
----
 
 **SQL Query — First 5 Borrower Debt Records (Non-Zero Only)**
-![SQL Query Screenshot](images/carbon-3.png)
+![SQL Query Screenshot](images/carbon-5.png)
 
-![SQL Result Screenshot](images/first5_debt_records_filtered.png)
-
----
+![SQL Result Screenshot](images/Borrower%20Result.png)
 
 **Why this matters**
 - Excludes records that could distort early insights.
