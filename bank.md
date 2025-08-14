@@ -50,21 +50,12 @@ By counting the total number of transactions per country, I could quickly identi
 ---
 
 **SQL Query — Transactions per Country**
-```sql
-SELECT
-  "Country / Economy",
-  COUNT(*) AS total_transactions
-FROM ida_loans
-GROUP BY "Country / Economy"
-ORDER BY total_transactions DESC;
-```
 
 ![SQL Query Screenshot](images/carbon-2.png)
 
 **Result**
-```
--- Paste your top 10 countries and their transaction counts here
-```
+
+![SQL Result Screenshot](images/Transac result.png)
 
 ---
 
