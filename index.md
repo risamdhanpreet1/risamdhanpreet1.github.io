@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Financial Analysis usin SQL](/bank.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
