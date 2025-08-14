@@ -84,5 +84,32 @@ This provides critical insight for risk management teams and supports discussion
 - Highlights the largest single financial commitment in our lending history.
 - Helps evaluate exposure to specific borrowers or countries.
 - Supports strategic decisions on future loan caps or diversification targets.
+- 
+### 4️⃣ What Does the First Glimpse of Borrower Debt Look Like?
+
+Before diving deep into trends and extremes, it’s useful to get an immediate, unfiltered look at borrower debt—while making sure we only see meaningful amounts.  
+By retrieving a small sample of the data and filtering out zero or null values, I could:
+- Verify the structure and integrity of the debt column.
+- Avoid irrelevant records that don’t reflect actual obligations.
+- Begin spotting early patterns in where substantial debts are concentrated.
+
+Using `LIMIT` with a `WHERE` filter, I displayed the first five non-zero debt records.  
+This gave me a snapshot of the scale of individual loan amounts and ensured the `"Due to IDA (US$)"` field contained actionable data for later analysis.
+
+---
+
+**SQL Query — First 5 Borrower Debt Records (Non-Zero Only)**
+
+```
+
+![SQL Result Screenshot](images/first5_debt_records_filtered.png)
+
+---
+
+**Why this matters**
+- Excludes records that could distort early insights.
+- Provides a quick validation of the financial data’s usability.
+- Sets the stage for accurate aggregation and trend analysis.
+
 
 
