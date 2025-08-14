@@ -14,8 +14,6 @@ With billions in loans across dozens of countries, I knew SQL was the fastest an
 - What is the largest single loan we’ve ever issued?
 - What does the first glimpse of borrower debt look like?
 - Can we make our data easier to work with?
- 
-<br>
 
 ### The Data
 
