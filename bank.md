@@ -9,22 +9,7 @@ With billions in loans across dozens of countries, I knew SQL was the fastest an
 <br>
 
 ### Key Questions & Insights
-
-- *Which countries have the most and fewest active borrowers?*
-
-- *Who are the top five borrowers by total loan count?*
-
-- *Which country had the most recent repayment activity?* 
-
-- *Which country has the highest average loan amount?* 
-
-- *Which countries have never missed a repayment date?*
- 
-- *Which country holds the largest cumulative debt?* 
-
-- *Largest year-over-year increase in borrowing*
-- *Loan status distribution*
-- - Where does our lending footprint begin?
+- Where does our lending footprint begin?
 - Who are the biggest players in our loan history?
 - What is the largest single loan we’ve ever issued?
 - What does the first glimpse of borrower debt look like?
@@ -35,7 +20,24 @@ With billions in loans across dozens of countries, I knew SQL was the fastest an
 
 The dataset comes from the World Bank's International Development Association (IDA) records, tracking global loans, grants, and guarantees. It includes borrower names, loan amounts, repayment details, and service charge rates, providing insights into how countries manage debt. 
 
-You can explore the live dataset here:  <a(https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)">World Bank IDA Loan Data</a>
+You can explore the live dataset here: [World Bank IDA Loan Data](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
 
 To analyze the dataset, I used SQL along with CSVfiddle.io for querying the data. Given CSVfiddle's limited memory capacity, I applied a LIMIT clause to efficiently manage large data volumes and streamline processing.
 
+### 1️⃣ Where Does Our Lending Footprint Begin?
+
+Every data journey starts with understanding the full scope of what we’re working with.  
+My first step was to explore the **entire dataset** without applying any filters.  
+This gave me a sense of the scale of the World Bank’s International Development Association (IDA) lending operations — from small nations with just a handful of loans to large economies with decades of borrowing history.
+
+By pulling all records, I could:
+- Confirm the dataset’s structure and data quality.
+- See the earliest and most recent lending activities.
+- Establish a **baseline** for later analysis, ensuring that trends and patterns would be interpreted in the right historical context.
+
+---
+
+**SQL Query — Inspect the Entire Dataset**
+```sql
+SELECT *
+FROM ida_loans;
