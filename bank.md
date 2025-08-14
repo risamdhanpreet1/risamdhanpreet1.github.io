@@ -107,5 +107,26 @@ This gave me a snapshot of the scale of individual loan amounts and ensured the 
 - Provides a quick validation of the financial data’s usability.
 - Sets the stage for accurate aggregation and trend analysis.
 
+### 5️⃣ Can We Make Our Data Easier to Work With?
+
+When working with real-world datasets, one of the first productivity wins is **renaming complex column headers** into simpler, query-friendly names.  
+The original dataset contained columns like `"Country / Economy"` and `"Due to IDA (US$)"` — which are descriptive but cumbersome to type repeatedly in SQL queries.  
+
+By using the `AS` keyword, I created short aliases that make my queries cleaner, faster to write, and easier to read.  
+This small adjustment can significantly reduce the chance of syntax errors and improve collaboration, especially when queries are shared across teams.
+
+
+
+**SQL Query — Create Shorter Column Names**
+
+
+![SQL Result Screenshot](images/alias_columns.png)
+
+
+
+**Why this matters**
+- Makes queries **easier to write** and less error-prone.
+- Improves **readability** when sharing SQL scripts.
+- Provides a consistent naming convention for later analysis and dashboards.
 
 
