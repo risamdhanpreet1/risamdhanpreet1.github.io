@@ -127,6 +127,7 @@ This small adjustment can significantly reduce the chance of syntax errors and i
 - Makes queries **easier to write** and less error-prone.
 - Improves **readability** when sharing SQL scripts.
 - Provides a consistent naming convention for later analysis and dashboards.
+  
 ## Conclusion
 
 **Main Takeaways**
