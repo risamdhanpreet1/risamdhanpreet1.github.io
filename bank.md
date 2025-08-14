@@ -42,3 +42,35 @@ By pulling all records, I could:
 
 ![SQL Query Screenshot](images/carbon.png)
 
+### 2️⃣ Who Are the Biggest Players in Our Loan History?
+
+After understanding the scope of the dataset, I wanted to see which countries appear most often in our lending records.  
+By counting the total number of transactions per country, I could quickly identify our most active borrowers and get a sense of where the World Bank’s engagement is highest.
+
+---
+
+**SQL Query — Transactions per Country**
+```sql
+SELECT
+  "Country / Economy",
+  COUNT(*) AS total_transactions
+FROM ida_loans
+GROUP BY "Country / Economy"
+ORDER BY total_transactions DESC;
+```
+
+![SQL Query Screenshot](images/carbon_txn_per_country.png)
+
+**Result**
+```
+-- Paste your top 10 countries and their transaction counts here
+```
+
+---
+
+**Why this matters**
+- Highlights countries with the **strongest engagement** with the World Bank.
+- Helps prioritize **relationship management** and monitoring efforts.
+- Identifies potential regions for **deeper financial analysis** and risk assessment.
+
+
