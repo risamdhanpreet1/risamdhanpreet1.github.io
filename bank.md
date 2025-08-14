@@ -8,24 +8,22 @@ As a data analyst for the World Bank’s International Development Association (
 With billions in loans across dozens of countries, I knew SQL was the fastest and most reliable way to extract exactly what decision-makers needed.
 <br>
 
-### Key Questions Addressed <br>
+### Key Questions & Insights
 
-## 📌 Key Questions & Insights
+- *Which countries have the most and fewest active borrowers?*
 
-- **Which countries have the most and fewest active borrowers?**  
+- *Who are the top five borrowers by total loan count?*
 
-- **Who are the top five borrowers by total loan count?**  
+- *Which country had the most recent repayment activity?* 
 
-- **Which country had the most recent repayment activity?**   
+- *Which country has the highest average loan amount?* 
 
-- **Which country has the highest average loan amount?**  
-
-- **Which countries have never missed a repayment date?**  
+- *Which countries have never missed a repayment date?*
  
-- **Which country holds the largest cumulative debt?**  
+- *Which country holds the largest cumulative debt?* 
 
-- **Largest year-over-year increase in borrowing**  
-- **Loan status distribution**  
+- *Largest year-over-year increase in borrowing*
+- *Loan status distribution*
  
 <br>
 ### The Data
