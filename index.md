@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Financial Analysis using SQL](/bank.md)
-<images/WorldBank.png/>
+#### [Financial Analysis using SQL](bank.md)
 
+![World Bank Analysis](images/WorldBank.png)
 ---
 #### [Excel Project](https://www.linkedin.com/pulse/whats-dinner-data-tells-us-whos-ordering-how-much-theyre-risam-e7tqe/?trackingId=lT41enwgQQuUZ6s3Fxl4TQ%3D%3D)
 
