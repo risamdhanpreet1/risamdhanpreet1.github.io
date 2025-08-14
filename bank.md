@@ -100,6 +100,7 @@ This gave me a snapshot of the scale of individual loan amounts and ensured the 
 **SQL Query — First 5 Borrower Debt Records (Non-Zero Only)**
 ![SQL Query Screenshot](images/carbon-5.png)
 
+**Query Result**
 ![SQL Result Screenshot](images/Borrower%20Result.png)
 
 **Why this matters**
@@ -121,6 +122,7 @@ This small adjustment can significantly reduce the chance of syntax errors and i
 
 ![SQL Query Screenshot](images/carbon-6.png)
 
+**Query Result**
 ![SQL Result Screenshot](images/AS%20result.png)
 
 
