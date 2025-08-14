@@ -16,6 +16,7 @@ With billions in loans across dozens of countries, I knew SQL was the fastest an
 - Can we make our data easier to work with?
  
 <br>
+
 ### The Data
 
 The dataset comes from the World Bank's International Development Association (IDA) records, tracking global loans, grants, and guarantees. It includes borrower names, loan amounts, repayment details, and service charge rates, providing insights into how countries manage debt. 
@@ -53,7 +54,7 @@ By counting the total number of transactions per country, I could quickly identi
 
 ![SQL Query Screenshot](images/carbon-2.png)
 
-**Result**
+**Query Result**
 
 ![SQL Result Screenshot](images/Transac%20result.png)
 
@@ -78,8 +79,8 @@ This provides critical insight for risk management teams and supports discussion
 
 ![SQL Query Screenshot](images/carbon-3.png)
 
-
-![SQL Result Screenshot](images/largest_single_loan.png)
+**Query Result**
+![SQL Result Screenshot](images/Max%20Loan%20Result.png)
 
 ---
 
