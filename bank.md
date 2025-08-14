@@ -59,7 +59,7 @@ GROUP BY "Country / Economy"
 ORDER BY total_transactions DESC;
 ```
 
-![SQL Query Screenshot](images/carbon_txn_per_country.png)
+![SQL Query Screenshot](images/carbon-2.png)
 
 **Result**
 ```
