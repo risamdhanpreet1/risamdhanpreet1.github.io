@@ -99,8 +99,7 @@ This gave me a snapshot of the scale of individual loan amounts and ensured the 
 ---
 
 **SQL Query — First 5 Borrower Debt Records (Non-Zero Only)**
-
-```
+![SQL Query Screenshot](images/carbon-3.png)
 
 ![SQL Result Screenshot](images/first5_debt_records_filtered.png)
 
