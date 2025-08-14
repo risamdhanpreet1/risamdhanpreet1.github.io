@@ -119,8 +119,9 @@ This small adjustment can significantly reduce the chance of syntax errors and i
 
 **SQL Query — Create Shorter Column Names**
 
+![SQL Query Screenshot](images/carbon-6.png)
 
-![SQL Result Screenshot](images/alias_columns.png)
+![SQL Result Screenshot](images/AS%20result.png)
 
 
 
