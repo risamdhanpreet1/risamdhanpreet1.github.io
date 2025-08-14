@@ -39,5 +39,4 @@ By pulling all records, I could:
 
 **SQL Query — Inspect the Entire Dataset**
 ```sql
-SELECT *
-FROM ida_loans;
+ ![SQL Query Screenshot](images/carbon.png)
