@@ -10,7 +10,7 @@
 ---
 #### [Excel Project](https://www.linkedin.com/pulse/whats-dinner-data-tells-us-whos-ordering-how-much-theyre-risam-e7tqe/?trackingId=lT41enwgQQuUZ6s3Fxl4TQ%3D%3D)
 
-[![Data Tells Us Who’s Ordering and How Much They’re Spending on iFood](Food%20Delivery.jpeg)](https://www.linkedin.com/pulse/whats-dinner-data-tells-us-whos-ordering-how-much-theyre-risam-e7tqe/?trackingId=lT41enwgQQuUZ6s3Fxl4TQ%3D%3D)  
+[![Data Tells Us Who’s Ordering and How Much They’re Spending on iFood](images/1.png)](https://www.linkedin.com/pulse/whats-dinner-data-tells-us-whos-ordering-how-much-theyre-risam-e7tqe/?trackingId=lT41enwgQQuUZ6s3Fxl4TQ%3D%3D)  
 
 *Analyzed iFood delivery data to uncover ordering trends, spending habits, and customer behavior patterns.*
 
