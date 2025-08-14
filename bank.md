@@ -10,16 +10,23 @@ With billions in loans across dozens of countries, I knew SQL was the fastest an
 
 ### Key Questions Addressed <br>
 
-Which countries have the most and fewest active borrowers?
-Who are the top five borrowers by total loan count?
-Which country has recorded the most recent repayment activity?
-Where is the highest average loan amount concentrated?
-Which countries have never missed a repayment date?
-Who holds the largest cumulative debt over time?
-Which regions receive the most frequent loans from the IDA?
-Where are service charges consistently above average?
-Which country experienced the largest year-over-year increase in borrowing?
-What percentage of loans are fully repaid vs. still outstanding by country?
+## 📌 Key Questions & Insights
+
+- **Which countries have the most and fewest active borrowers?**  
+
+- **Who are the top five borrowers by total loan count?**  
+
+- **Which country had the most recent repayment activity?**   
+
+- **Which country has the highest average loan amount?**  
+
+- **Which countries have never missed a repayment date?**  
+ 
+- **Which country holds the largest cumulative debt?**  
+
+- **Largest year-over-year increase in borrowing**  
+- **Loan status distribution**  
+ 
 <br>
 ### The Data
 
