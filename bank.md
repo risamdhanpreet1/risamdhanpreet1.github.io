@@ -7,7 +7,8 @@
 As a data analyst for the World Bank’s International Development Association (IDA), my first mission was to analyze our historical loan data and provide clear, data-driven insights. The goal? To understand borrowing patterns, identify top borrowers, and detect trends that can guide future lending strategies.
 With billions in loans across dozens of countries, I knew SQL was the fastest and most reliable way to extract exactly what decision-makers needed.
 <br>
-###Key Questions Addressed <br>
+
+### Key Questions Addressed <br>
 
 Which countries have the most and fewest active borrowers?
 Who are the top five borrowers by total loan count?
@@ -19,6 +20,12 @@ Which regions receive the most frequent loans from the IDA?
 Where are service charges consistently above average?
 Which country experienced the largest year-over-year increase in borrowing?
 What percentage of loans are fully repaid vs. still outstanding by country?
+<br>
+### The Data
 
+The dataset comes from the World Bank's International Development Association (IDA) records, tracking global loans, grants, and guarantees. It includes borrower names, loan amounts, repayment details, and service charge rates, providing insights into how countries manage debt. 
 
+You can explore the live dataset here: World Bank IDA Loan Data
+
+To analyze the dataset, I used SQL along with CSVfiddle.io for querying the data. Given CSVfiddle's limited memory capacity, I applied a LIMIT clause to efficiently manage large data volumes and streamline processing.
 
