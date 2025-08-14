@@ -55,7 +55,7 @@ By counting the total number of transactions per country, I could quickly identi
 
 **Result**
 
-![SQL Result Screenshot](images/Transac result.png)
+![SQL Result Screenshot](images/Transac%20result.png)
 
 ---
 
