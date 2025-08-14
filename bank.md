@@ -39,4 +39,9 @@ By pulling all records, I could:
 
 **SQL Query — Inspect the Entire Dataset**
 ```sql
- ![SQL Query Screenshot](images/carbon.png)
+SELECT *
+FROM ida_loans;
+```
+
+![SQL Query Screenshot](images/carbon.png)
+
