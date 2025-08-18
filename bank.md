@@ -78,6 +78,9 @@ This provides critical insight for risk management teams and supports discussion
 **Query Result**
 ![SQL Result Screenshot](images/Max%20Loan%20Result.png)
 
+**What to notice:** The dataset’s biggest single IDA loan goes to Ukraine.  
+
+**Answer:** In **2024**, Ukraine’s Ministry of Finance received a record **US $4.8 billion** loan — the largest individual loan captured in this data.
 
 **Why this matters**
 - Highlights the largest single financial commitment in our lending history.
