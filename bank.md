@@ -54,6 +54,9 @@ By counting the total number of transactions per country, I could quickly identi
 
 ![SQL Result Screenshot](images/Transac%20result.png)
 
+**What to notice:** India dominates IDA loan activity, with Bangladesh and Pakistan trailing behind.
+
+**Answer:** India recorded the highest with **72,899 transactions**, followed by Bangladesh with **53,048 transactions**, and Pakistan with **45,632 transactions**. These figures highlight where the World Bank’s International Development Association (IDA) lending has been most concentrated.
 
 **Why this matters**
 - Highlights countries with the **strongest engagement** with the World Bank.
