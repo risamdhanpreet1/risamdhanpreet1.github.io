@@ -100,10 +100,14 @@ This gave me a snapshot of the scale of individual loan amounts and ensured the 
 
 
 **SQL Query — First 5 Borrower Debt Records (Non-Zero Only)**
-![SQL Query Screenshot](images/carbon-5.png)
+![SQL Query Screenshot](images/carbon-8.png)
 
 **Query Result**
 ![SQL Result Screenshot](images/Borrower%20Result.png)
+
+**What to notice:** Ukraine dominates the debt exposure snapshot.  
+
+**Answer:** The five largest debt records all belong to **Ukraine’s Ministry of Finance**, starting with a massive **US $4.8 billion** obligation, followed by additional loans just over **US $1.1 billion** each. This concentration highlights how heavily exposure is weighted toward a single borrower.
 
 **Why this matters**
 - Excludes records that could distort early insights.
