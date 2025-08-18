@@ -73,7 +73,7 @@ This provides critical insight for risk management teams and supports discussion
 
 **SQL Query — Largest Single Loan**
 
-![SQL Query Screenshot](images/carbon-3.png)
+![SQL Query Screenshot](images/carbon-7.png)
 
 **Query Result**
 ![SQL Result Screenshot](images/Max%20Loan%20Result.png)
